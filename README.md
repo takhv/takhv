@@ -1,18 +1,23 @@
-### Hi there 👋
+* Студент бакалавриата в [Университете ИТМО](https://itmo.ru/)
 
-<!--
-**takhv/takhv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Лабы и отчеты доступны в репозитории [takhv/itmo](https://github.com/takhv/itmo)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and hard skills
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## Contacts
+<p align="left">
+  <a href="https://t.me/uranusdestroyer" target="_blank" rel="noreferrer"> <img align="left" alt="takhv | Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
+  <a href="https://vk.com/shigarakitenko" target="_blank" rel="noreferrer"> <img align="left" alt="takhv | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
+</p>
+<br />  
+<br />  
+
+## GitHub Stats
+| ![Stats](https://github-readme-stats.vercel.app/api?username=takhv&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takhv&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/takhv/github-readme-stats) |
+|---|---|
