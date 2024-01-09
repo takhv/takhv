@@ -8,6 +8,11 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://ibb.co/WDjQR1M" alt="html" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://ibb.co/BzszJvC" alt="css" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://ibb.co/2qpfNB6" alt="js" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://ibb.co/tc5PR4w" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> <img src="https://ibb.co/fp2qTrT" alt="c" width="40" height="40"/> </a>
 </p>
 
 ## Contacts
