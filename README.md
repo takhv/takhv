@@ -14,3 +14,4 @@
 ## GitHub Stats
 | ![Stats](https://github-readme-stats.vercel.app/api?username=takhv&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takhv&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/takhv/github-readme-stats) |
 |---|---|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takhv)](https://github.com/takhv/github-readme-stats)
